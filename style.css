@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Kosugi+Maru|Lato|Oswald|Roboto+Condensed');
+
+body {
+	margin: 0px auto;
+	padding: 0px;
+	background-color: #90ffa9;
+	font-family: 'Lato', san-serif;
+}
+.header {
+	width: 100%;
+	background-color: #42e065;
+	border-radius: 15px;
+	padding: 25px;
+	text-align: center;
+}
+h1 {
+	font-family: 'Roboto Condensed', san-serif;
+	font-size: 40px;
+	color: #c7ffd4;
+	text-shadow: 2px 2px 2px #00350c;
+}
+.container {
+	margin: 15px;
+	border-radius: 5px;
+	background-color: #00b82c; 
+	padding: 25px;
+	text-align: center;
+}
+p {
+	color: #b3ffc5;
+}
+input[type=text] {
+	width: 50%;
+	padding: 10px; 
+	border: 1px solid #fff;
+	color: #3f3f3f;
+}
+.link {
+	text-align: center;
+	margin: 10px;
+}
+a {
+	margin: 15px;
+	text-decoration: none;
+	padding: 15px;
+	background-color: #fff;
+	color: #ccc;
+	border-radius: 5px;
+}
+a:hover {
+	color: #000;
+}
